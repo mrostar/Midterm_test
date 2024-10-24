@@ -1,6 +1,6 @@
 # Suicide Analysis Project
 
-## Tableau Public Link:
+## Tableau Public Link
 https://public.tableau.com/views/CDCSuicideAnalysisProject/TheStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Introduction
